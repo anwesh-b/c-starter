@@ -1,5 +1,5 @@
 void main() {
   // Initialize the parser
   int x;
-     x = 10 cout << x << endl;
+      x = 10 cout << x << endl;
 }
